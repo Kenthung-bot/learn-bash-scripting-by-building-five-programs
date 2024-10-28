@@ -159,3 +159,4 @@ __vsc_prompt_cmd_original
 echo $J
 declare -p
 declare -p J
+declare -p RANDOM
