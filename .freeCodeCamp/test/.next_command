@@ -187,3 +187,4 @@ help until
 help [[
 ./fortune.sh
 help [[
+[[ hello == hello ]]
