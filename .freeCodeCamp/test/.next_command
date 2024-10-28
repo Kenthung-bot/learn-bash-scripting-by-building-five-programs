@@ -166,3 +166,4 @@ NUMBER=$(( RANDOM % 75 + 1 ))
 ./biongo.sh
 ./bingo.sh
 ./bingo.sh
+help let
