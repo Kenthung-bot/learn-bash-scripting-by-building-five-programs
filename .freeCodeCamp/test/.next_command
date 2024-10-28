@@ -118,3 +118,5 @@ help
 help
 ls --color=auto /
 ls --color=auto /bin
+man slee
+man sleep
