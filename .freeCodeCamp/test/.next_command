@@ -163,3 +163,6 @@ declare -p RANDOM
 echo $(( RANDOM % 75 ))
 echo $(( RANDOM % 75 + 1 ))
 NUMBER=$(( RANDOM % 75 + 1 ))
+./biongo.sh
+./bingo.sh
+./bingo.sh
