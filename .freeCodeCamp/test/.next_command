@@ -133,3 +133,4 @@ help while
 touch bingo.sh
 chmod +x countdown.sh
 chmod +x bingo.sh
+./bingo.sh
