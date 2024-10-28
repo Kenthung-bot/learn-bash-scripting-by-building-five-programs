@@ -35,3 +35,4 @@ echo hello questionnaiire
 echo hello questionnaaire
 sh questionnaire.sh
 bash questionnaire.sh
+which bash
