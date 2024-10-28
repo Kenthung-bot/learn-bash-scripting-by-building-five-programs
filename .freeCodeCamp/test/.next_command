@@ -122,3 +122,5 @@ man slee
 man sleep
 sleep 3
 __vsc_prompt_cmd_original
+sleep 3
+./countdown.sh 3
