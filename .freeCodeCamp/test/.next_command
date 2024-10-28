@@ -39,3 +39,5 @@ which bash
 __vsc_prompt_cmd_original
 ./questionnaire.sh
 ls --color=auto -l
+chmod
+chmod +x questionnaire.sh
