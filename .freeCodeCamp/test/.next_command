@@ -192,3 +192,4 @@ help [[
 [[ hello =~ el ]]
 [[ "hello world" =~ "lo wor" ]]
 [[ "hello world" =~ "lo wor" ]]
+[[ "hello world" =~ ^h ]]
